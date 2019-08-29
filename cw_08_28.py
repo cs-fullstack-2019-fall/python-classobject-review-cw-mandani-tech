@@ -28,6 +28,7 @@ class Movie:
 def main():
 # # Create class instance(s) and perform other activities in/from this function
     myMovie=Movie("FastNFurious",5,2019)
+    # !! : create *two* instances
     print(myMovie)
 #
 main()

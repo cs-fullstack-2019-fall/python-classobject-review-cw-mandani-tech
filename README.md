@@ -1,5 +1,5 @@
 # Python classes review graded
-
+Good work! See cw_08_28.py for comments. 1/2 + partial. Score : 4
 ### Problem 1:
 Create a Movie class with the following properties/attributes: ```movieName```, ```rating```, and ```yearReleased```. 
 * Override the default ```str``` (to-String) method and implement the code that will print the value of all the properties/attributes of the Movie class
